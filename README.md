@@ -55,7 +55,7 @@ This guide walks you through exporting your class schedule from NAIT's Brightspa
 
 ## 📝 Notes
 
-- The `.ics` file does **NOT AUTO-UPDATE**. If your class schedule changes, you'll need to repeat this process.
+- The `.ics` file does **NOT AUTO-UPDATE**. If your class schedule changes, you'll need to repeat this process. For live updates, sync the `.ics` URL to Google Calendar and embed it into Notion.
 - You can also paste the URL from Step 4 into apps like Google Calendar or Apple Calendar for live syncing.
 
 ---
